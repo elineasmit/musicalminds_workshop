@@ -33,7 +33,7 @@ body{
     background-attachment: fixed;
     color: #2F2F40; 
     text-align:left;
-    font-family: 'Lucida Grande', monospace;
+    font-family: 'Helvetica', sans-serif;
     font-size:1em;
     line-height:1.5em;
     margin: 60px auto;
@@ -46,7 +46,7 @@ a.current:hover{color: 770623;}
 a:hover{color: 770623;}
 a:active{color: 770623;}
 /*h1,h2,h3,h4{clear:left; color: 770623; margin:1.5em 0em 1em 0em; font-family:'Tahoma',sans-serif;} */
-h1,h2,h3,h4{clear:left; color: 770623; margin:1.5em 0em 1em 0em; font-family:'Lucida Grande', monospace;}
+h1,h2,h3,h4{clear:left; color: 770623; margin:1.5em 0em 1em 0em; font-family:'Helvetica', sans-serif;}
 h1{font-size:2.67em;}
 h2{font-size:2.00em;}
 h3{font-size:1.67em;}
@@ -81,7 +81,7 @@ th,td{
 }
 
 /* Website Banner */
-.banner {position: relative; font-family:'Lucida Grande', monospace;}
+.banner {position: relative; font-family:'Helvetica', sans-serif;}
 .top-left {font-size:2.00em; color: #ffffff; text-align: center; width: 1000px; height: 67px; position: absolute; padding: 36px 0 0 0; top: 0px;} 
 .bottom-right {font-size:1.67em; color: #FFFFFF; line-height: 1.5em; width: auto; height: 100px; padding: 0px 27px 27px 0px; text-align: right; position: absolute; bottom: 0px; right: 0px;}
 
@@ -102,8 +102,8 @@ td.sponsor img{width: 100%}
 /* The Table on the Program Page */
 td.room{padding: 4px 12px 4px 4px; width: 90%; vertical-align:bottom; font-size:1.67em; color: #52739e; height:32px;}
 td.date{white-space:nowrap; width:130px; text-align:right; vertical-align:top; padding:4px 16px 0px 0px;}
-td.title{padding: 4px 12px 4px 4px; width: 90%; vertical-align:top; font-size:1.5em; color: #813c54; height:32px; font-family:'Lucida Grande', monospace;}
-td.title-special{padding: 4px 12px 4px 4px; width: 90%; vertical-align:top; font-size:1.67em; color: #52739e; height:32px; font-family:'Lucida Grande', monospace;}
+td.title{padding: 4px 12px 4px 4px; width: 90%; vertical-align:top; font-size:1.5em; color: #813c54; height:32px; font-family:'Helvetica', sans-serif;}
+td.title-special{padding: 4px 12px 4px 4px; width: 90%; vertical-align:top; font-size:1.67em; color: #52739e; height:32px; font-family:'Helvetica', sans-serif;}
 td.speaker{padding: 4px 12px 4px 4px; font-style: italic; font-size:1em; max-height:999999px}
 td.abstract{padding: 4px 12px 12px 4px; font-size:1em; max-height:999999px}
 td.abstract img{display: block; margin: 4px auto 8px auto}
